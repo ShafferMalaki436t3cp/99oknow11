@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+99OK NOW🎖️ 99 OK - Link Đăng Nhập Nhà Cái 99OK Casino
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+99OK là nhà cái trực tuyến uy tín được thành lập ngày 6/7/2013, 99 OK cung cấp hơn 467 sản phẩm cá cược thể thao, bắn cá, casino, nổ hũ và nhiều trò chơi hấp dẫn khác và đá gà thomo. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+99OK cam kết mang đến trải nghiệm giải trí an toàn, chất lượng và minh bạch. Với mục tiêu mở rộng thị trường khắp Châu Á, 99OK không ngừng cải tiến và cập nhật các trò chơi mới. Dịch vụ khách hàng của 99OK luôn sẵn sàng hỗ trợ 24/7 qua nhiều kênh, đảm bảo sự hài lòng cho người tham gia.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 3F Nguyễn Cửu Phú, Tân Kiên, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0895884310. 
 
-.. toctree::
+Email: info@h99ok.now. 
 
-   usage
-   api
+Website: http://99ok.now/ 
+
+#99ok #trangchu99ok #dangky99ok #dangnhap99ok #link99ok
